@@ -5,3 +5,6 @@ dist
 *.local
 .claude/settings.local.json
 *.log
+.vercel
+
+.vercel

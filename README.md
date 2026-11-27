@@ -147,6 +147,8 @@ Try it with [samples/sample-paper.pdf](samples/sample-paper.pdf) (regenerate wit
 
 ## Run
 
+**Live:** https://awaaz-pariksha.vercel.app (open in Google Chrome and allow the microphone).
+
 **With Docker (no keys or accounts needed):**
 
 ```bash
