@@ -1,0 +1,7 @@
+services:
+  awaaz-pariksha:
+    build: .
+    image: awaaz-pariksha
+    ports:
+      - "8080:80"
+    restart: unless-stopped
